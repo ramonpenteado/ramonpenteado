@@ -10,7 +10,6 @@ I am a passionate full-stack software engineer with almost 15 years of experienc
 
 ## Projects
 🌟 Led the development of the largest software project in the history of the Military Police in Brazil - a comprehensive HR platform with Blockchain integration <br>
-🌐 Developed a new platform for a US government software supplier company <br>
 
 ## Learning and Goals
 📚 Currently diving into React19 features <br>

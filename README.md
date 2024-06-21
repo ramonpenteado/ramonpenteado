@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Ramon Penteado 👋
 
-<!--
-**ramonpenteado/ramonpenteado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a passionate full-stack software engineer with almost 15 years of experience in the field. I have had the privilege of working for the Military Police in Brazil - São Paulo, the biggest bank in South America, an NFT company, a US government software supplier company, and many other exciting projects.
 
-Here are some ideas to get you started:
+## Technologies and Tools
+🚀 JavaScript/TypeScript, NodeJS, NestJS, NextJS <br>
+☁️ IaaC tools: Terraform, AWS CDK <br>
+🔧 Proficient in AWS services <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🌟 Led the development of the largest software project in the history of the Military Police in Brazil - a comprehensive HR platform with Blockchain integration <br>
+🌐 Developed a new platform for a US government software supplier company <br>
+
+## Learning and Goals
+📚 Currently diving into React19 features <br>
+🎯 Working towards an Azure for Developers certification <br>
+
+## How to Reach Me
+Let's connect on [LinkedIn](https://www.linkedin.com/in/ramon-penteado/) <br>
+📧 Email me at ramon.penteado@gmail.com <br>
+📸 Follow me on Instagram: @penteadoramon <br>
+🎥 Check out my YouTube channel [here](https://www.youtube.com/channel/UCCSm29fW3UWg2FY_Obc8WTQ) <br>
+
+## Optional Sections
+🥋 Brazilian jiu-jitsu fighter <br>
+🍳 Cooking enthusiast <br>
+🎵 Musician <br>
+🙏 Christian <br>
+
+Feel free to reach out, collaborate, or just chat about tech and life! Let's create something amazing together! 🚀🌟
+
+[![Profile views](https://komarev.com/ghpvc/?username=ramonpenteado)](https://github.com/ryo-ma/github-profile-trophy)

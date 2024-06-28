@@ -21,7 +21,7 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/ramon-penteado/) <br>
 📸 Follow me on Instagram: @penteadoramon <br>
 🎥 Check out my YouTube channel [here](https://www.youtube.com/channel/UCCSm29fW3UWg2FY_Obc8WTQ) <br>
 
-## Optional Sections
+## About me but not tech related
 🥋 Brazilian jiu-jitsu fighter <br>
 🍳 Cooking enthusiast <br>
 🎵 Musician <br>
